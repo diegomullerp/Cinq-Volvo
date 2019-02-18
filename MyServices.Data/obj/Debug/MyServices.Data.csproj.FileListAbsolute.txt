@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\MyServices.Data.dll
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\MyServices.Data.pdb
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\DomainServices.dll
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\MyServices.dll
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\DomainServices.pdb
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\MyServices.pdb
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\obj\Debug\MyServices.Data.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\obj\Debug\MyServices.Data.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\obj\Debug\MyServices.Data.dll
+C:\Users\diego\Desktop\WebAPI\MyServices.Data\obj\Debug\MyServices.Data.pdb

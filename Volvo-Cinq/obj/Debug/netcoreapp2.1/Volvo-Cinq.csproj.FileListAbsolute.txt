@@ -1,0 +1,14 @@
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.RazorAssemblyInfo.cache
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.RazorAssemblyInfo.cs
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.AssemblyInfo.cs
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\bin\Debug\netcoreapp2.1\Volvo-Cinq.deps.json
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\bin\Debug\netcoreapp2.1\Volvo-Cinq.runtimeconfig.json
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\bin\Debug\netcoreapp2.1\Volvo-Cinq.runtimeconfig.dev.json
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\bin\Debug\netcoreapp2.1\Volvo-Cinq.dll
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\bin\Debug\netcoreapp2.1\Volvo-Cinq.pdb
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.dll
+C:\Users\diego\Desktop\WebApi\Volvo-Cinq\obj\Debug\netcoreapp2.1\Volvo-Cinq.pdb

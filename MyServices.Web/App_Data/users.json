@@ -1,0 +1,9 @@
+{
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[MyServices.User, MyServices]], mscorlib",
+  "john_doe": {
+    "$type": "MyServices.User, MyServices",
+    "Id": "john_doe",
+    "Name": "John Doe",
+    "Email": "john_doe@Acme.com"
+  }
+}

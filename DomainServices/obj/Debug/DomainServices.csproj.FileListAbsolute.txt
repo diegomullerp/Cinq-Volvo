@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\WebAPI\DomainServices\bin\Debug\DomainServices.dll
+C:\Users\diego\Desktop\WebAPI\DomainServices\bin\Debug\DomainServices.pdb
+C:\Users\diego\Desktop\WebAPI\DomainServices\obj\Debug\DomainServices.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\WebAPI\DomainServices\obj\Debug\DomainServices.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\WebAPI\DomainServices\obj\Debug\DomainServices.dll
+C:\Users\diego\Desktop\WebAPI\DomainServices\obj\Debug\DomainServices.pdb

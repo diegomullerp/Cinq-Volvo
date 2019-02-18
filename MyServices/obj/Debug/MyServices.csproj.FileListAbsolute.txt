@@ -1,0 +1,8 @@
+C:\Users\diego\Desktop\WebAPI\MyServices\bin\Debug\MyServices.dll
+C:\Users\diego\Desktop\WebAPI\MyServices\bin\Debug\MyServices.pdb
+C:\Users\diego\Desktop\WebAPI\MyServices\bin\Debug\DomainServices.dll
+C:\Users\diego\Desktop\WebAPI\MyServices\bin\Debug\DomainServices.pdb
+C:\Users\diego\Desktop\WebAPI\MyServices\obj\Debug\MyServices.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\WebAPI\MyServices\obj\Debug\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\WebAPI\MyServices\obj\Debug\MyServices.dll
+C:\Users\diego\Desktop\WebAPI\MyServices\obj\Debug\MyServices.pdb
